@@ -1,8 +1,9 @@
 # GlusterfsAWS
 
-GlusterFS on AWS
+GlusterFS on Amazon Web Services
 
 Gluster is general purpose scalable, distributed network attached storage (NAS) file system solution that aggregates EBS volumes across multiple EC2 instances into a single high performance resilient namespace. It gives horizontal scaling and provides high availability through replications within Amazon Machine Images (AMI).
+
 Installation of Gluster in Amazon Web Services on Linux. 
 Gluster1
 
